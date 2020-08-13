@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DanielSalgado.IMCTest.Api</name>
+    </assembly>
+    <members>
+        <member name="F:DanielSalgado.IMCTest.Api.Controllers.TaxCalculatorController.logger">
+            <summary>
+            The logger.
+            </summary>
+        </member>
+        <member name="F:DanielSalgado.IMCTest.Api.Controllers.TaxCalculatorController.mapper">
+            <summary>
+            The mapper.
+            </summary>
+        </member>
+        <member name="P:DanielSalgado.IMCTest.Api.Controllers.TaxCalculatorController.serviceResolver">
+            <summary>
+            The service resolver.
+            </summary>
+        </member>
+        <member name="M:DanielSalgado.IMCTest.Api.Controllers.TaxCalculatorController.PostCalculateOrderTax(DanielSalgado.IMCTest.Api.Domain.CalculateOrderTaxRequest)">
+            <summary>
+            The post calculate order tax.
+            </summary>
+            <param name="request">
+            The request.
+            </param>
+            <returns>
+            The <see cref="T:System.Threading.Tasks.Task"/>.
+            </returns>
+        </member>
+        <member name="T:DanielSalgado.IMCTest.Api.Startup.ServiceResolver">
+            <summary>
+            The service resolver.
+            </summary>
+            <param name="customerType">
+            The customer type.
+            </param>
+        </member>
+        <member name="T:DanielSalgado.IMCTest.Services.TaxCalculation.TaxJar.Infrastructure.Mapper.ApiServiceMapperProfile">
+            <summary>
+            The tax jar service mapper profile.
+            </summary>
+        </member>
+        <member name="M:DanielSalgado.IMCTest.Services.TaxCalculation.TaxJar.Infrastructure.Mapper.ApiServiceMapperProfile.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DanielSalgado.IMCTest.Services.TaxCalculation.TaxJar.Infrastructure.Mapper.ApiServiceMapperProfile"/> class.
+            </summary>
+        </member>
+        <member name="M:DanielSalgado.IMCTest.Services.TaxCalculation.TaxJar.Infrastructure.Mapper.ApiServiceMapperProfile.CreateApiTaxOrderMappings">
+            <summary>
+            The create tax order mappings.
+            </summary>
+        </member>
+    </members>
+</doc>

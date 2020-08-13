@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DanielSalgado.IMCTest.Api/bin/Debug/netcoreapp3.1
+/.vs
+/DanielSalgado.IMCTest.Api/obj
+/DanielSalgado.IMCTest.Api.Domain/bin/Debug/netstandard2.0
+/DanielSalgado.IMCTest.Api.Domain/obj
+/DanielSalgado.IMCTest.Services.TaxCalculation/bin/Debug/netstandard2.0
+/DanielSalgado.IMCTest.Services.TaxCalculation/obj
+/DanielSalgado.IMCTest.Services.TaxCalculation.TaxJar/bin/Debug/netstandard2.0
+/DanielSalgado.IMCTest.Services.TaxCalculation.TaxJar/obj
+/DanielSalgado.IMCTest.Tests.Api/bin/Debug/netcoreapp3.1
+/DanielSalgado.IMCTest.Tests.Api/obj
+/DanielSalgado.IMCTest.Tests.TaxJarServiceTest/bin/Debug/netcoreapp3.1
+/DanielSalgado.IMCTest.Tests.TaxJarServiceTest/obj
