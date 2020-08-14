@@ -15,3 +15,5 @@
 /DanielSalgado.IMCTest.Tests.Api/obj
 /DanielSalgado.IMCTest.Tests.TaxJarServiceTest/bin/Debug/netcoreapp3.1
 /DanielSalgado.IMCTest.Tests.TaxJarServiceTest/obj
+/DanielSalgado.IMCTest.Api/bin/Debug
+/DanielSalgado.IMCTest.Api.Domain/bin/Debug
